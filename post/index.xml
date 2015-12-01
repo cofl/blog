@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on coflblog</title>
+    <link>/blog/post/</link>
+    <description>Recent content in Posts on coflblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Nov 2015 22:39:44 -0500</lastBuildDate>
+    <atom:link href="/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lexember the 0th</title>
+      <link>/blog/post/lexember-0/</link>
+      <pubDate>Mon, 30 Nov 2015 22:39:44 -0500</pubDate>
+      
+      <guid>/blog/post/lexember-0/</guid>
+      <description>&lt;p&gt;So I hear Lexember is starting up again this year. I&amp;rsquo;ve had a few ideas kicking about in the back of my head about revitalising the Saadan languages, so this seems the perfect time to buckle down and hammer out some progress.&lt;/p&gt;
+
+&lt;p&gt;Also, I&amp;rsquo;m happy to announce that I have a blog! Finally! As you can probably tell because you&amp;rsquo;re here, reading it&amp;hellip; ah, well. After trying and failing to get it set up with Metalsmith like &lt;a href=&#34;/blog/&#34;&gt;my main site&lt;/a&gt;, I&amp;rsquo;ve gotten it running with &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; instead. It&amp;rsquo;s been absolutely wonderful to work with so far, except for some hickups with the first theme I tried to use. The theme I&amp;rsquo;m using now is &lt;a href=&#34;http://github.com/gizak/nofancy&#34;&gt;nofancy&lt;/a&gt;, with a tiny tweak to show my reddit username. I&amp;rsquo;ll probably make that a pull request up on the main repo sometime.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;ve got any questions or comments, be sure to drop me a message on reddit! I always enjoy receiving and replying to anything you all can throw at me.&lt;/p&gt;
+
+&lt;p&gt;Happy conlanging for now!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
