@@ -6,8 +6,242 @@
     <description>Recent content in Posts on coflblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2015 08:16:57 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2015 10:03:36 -0500</lastBuildDate>
     <atom:link href="/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lexember the 2nd</title>
+      <link>/blog/post/lexember-2/</link>
+      <pubDate>Wed, 02 Dec 2015 10:03:36 -0500</pubDate>
+      
+      <guid>/blog/post/lexember-2/</guid>
+      <description>
+
+&lt;p&gt;Another day, another word. Or 21 of them in this case, as I&amp;rsquo;ve hammered out the Saan table of demonstratives and whatnot, a chart akin to Esperanto&amp;rsquo;s correlatives, though I like to consider it more inspired by the Japanese thing with koko/soko/etc. Here they are with approximate English translations:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;-jzi&lt;/th&gt;
+&lt;th&gt;-le&lt;/th&gt;
+&lt;th&gt;-ci&lt;/th&gt;
+&lt;th&gt;-mmḿe&lt;/th&gt;
+&lt;th&gt;-dzu&lt;/th&gt;
+&lt;th&gt;-mńe&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ha-&lt;/td&gt;
+&lt;td&gt;this&lt;/td&gt;
+&lt;td&gt;here&lt;/td&gt;
+&lt;td&gt;1s (formal)&lt;/td&gt;
+&lt;td&gt;1pl (formal)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;now&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;le-&lt;/td&gt;
+&lt;td&gt;that&lt;/td&gt;
+&lt;td&gt;there&lt;/td&gt;
+&lt;td&gt;them (s.)&lt;/td&gt;
+&lt;td&gt;them (pl)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;then&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;go-&lt;/td&gt;
+&lt;td&gt;which&lt;/td&gt;
+&lt;td&gt;where&lt;/td&gt;
+&lt;td&gt;what&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;how&lt;/td&gt;
+&lt;td&gt;when&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;cu-&lt;/td&gt;
+&lt;td&gt;something&lt;/td&gt;
+&lt;td&gt;somewhere&lt;/td&gt;
+&lt;td&gt;someone&lt;/td&gt;
+&lt;td&gt;some people&lt;/td&gt;
+&lt;td&gt;somehow&lt;/td&gt;
+&lt;td&gt;sometime&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Mostly this system derives from a much simpler one I had in Naretvei with just position and pronoun (haji/haci, this/1s), but there&amp;rsquo;s a lot more to it now.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;cuci:091b1bb727079026f732f3e5b72676f2&#34;&gt;cuci&lt;/h3&gt;
+
+&lt;p&gt;/ˈtsutɕi̥/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) an unknown or unspecified person&lt;/p&gt;
+
+&lt;h3 id=&#34;cudzu:091b1bb727079026f732f3e5b72676f2&#34;&gt;cudzu&lt;/h3&gt;
+
+&lt;p&gt;/ˈtsudzu̥/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;adv.&lt;/em&gt;) in some way, by some means&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note&lt;/strong&gt;&lt;/em&gt;: This is the one oddball of the set that I don&amp;rsquo;t really like, as it&amp;rsquo;s the only adverb amongst nouns.&lt;/p&gt;
+
+&lt;h3 id=&#34;cujzi:091b1bb727079026f732f3e5b72676f2&#34;&gt;cujzi&lt;/h3&gt;
+
+&lt;p&gt;/ˈtsu.d̯zˑi/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) an unknown or unspecified thing&lt;/p&gt;
+
+&lt;h3 id=&#34;cule:091b1bb727079026f732f3e5b72676f2&#34;&gt;cule&lt;/h3&gt;
+
+&lt;p&gt;/ˈtsu.ɺ̻ɛ/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) an unknown or unspecified place&lt;/p&gt;
+
+&lt;h3 id=&#34;cummm-e:091b1bb727079026f732f3e5b72676f2&#34;&gt;cummḿe&lt;/h3&gt;
+
+&lt;p&gt;/ˈtsumː.mjɛ/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) a group of unknown or unspecified people; or, an unknown or unspecified group of people.&lt;/p&gt;
+
+&lt;h3 id=&#34;cumńe:091b1bb727079026f732f3e5b72676f2&#34;&gt;cumńe&lt;/h3&gt;
+
+&lt;p&gt;/ˈtsumnjɛ/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) an unknown or unspecified time&lt;/p&gt;
+
+&lt;h3 id=&#34;goci:091b1bb727079026f732f3e5b72676f2&#34;&gt;goci&lt;/h3&gt;
+
+&lt;p&gt;/ˈgotɕi̥/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) what, who. Considered rude to refer to people when not used in conjunction with &amp;ldquo;an&amp;rdquo; (&amp;ldquo;person&amp;rdquo;).&lt;/p&gt;
+
+&lt;h3 id=&#34;godzu:091b1bb727079026f732f3e5b72676f2&#34;&gt;godzu&lt;/h3&gt;
+
+&lt;p&gt;/ˈgodzu̥/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) how&lt;/p&gt;
+
+&lt;h3 id=&#34;gojzi:091b1bb727079026f732f3e5b72676f2&#34;&gt;gojzi&lt;/h3&gt;
+
+&lt;p&gt;/ˈgo.d̯zˑi/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) which&lt;/p&gt;
+
+&lt;h3 id=&#34;gole:091b1bb727079026f732f3e5b72676f2&#34;&gt;gole&lt;/h3&gt;
+
+&lt;p&gt;/ˈgo.ɺ̻ɛ/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) where&lt;/p&gt;
+
+&lt;h3 id=&#34;gomńe:091b1bb727079026f732f3e5b72676f2&#34;&gt;gomńe&lt;/h3&gt;
+
+&lt;p&gt;/ˈgomnjɛ/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) when&lt;/p&gt;
+
+&lt;h3 id=&#34;haci:091b1bb727079026f732f3e5b72676f2&#34;&gt;haci&lt;/h3&gt;
+
+&lt;p&gt;/ˈhɐtɕi̥/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) first-person singular formal pronoun. Akin to a self-referential &amp;ldquo;this one&amp;rdquo;.&lt;/p&gt;
+
+&lt;h3 id=&#34;hajzi:091b1bb727079026f732f3e5b72676f2&#34;&gt;hajzi&lt;/h3&gt;
+
+&lt;p&gt;/ˈhɐ.d̯zˑi/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) this&lt;/p&gt;
+
+&lt;h3 id=&#34;hale:091b1bb727079026f732f3e5b72676f2&#34;&gt;hale&lt;/h3&gt;
+
+&lt;p&gt;/ˈhɐ.ɺ̻ɛ/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) here&lt;/p&gt;
+
+&lt;h3 id=&#34;hammm-e:091b1bb727079026f732f3e5b72676f2&#34;&gt;hammḿe&lt;/h3&gt;
+
+&lt;p&gt;/ˈhɐmː.mjɛ/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) first-person plural formal pronoun. Akin to a self-referential &amp;ldquo;these ones&amp;rdquo;.&lt;/p&gt;
+
+&lt;h3 id=&#34;hamńe:091b1bb727079026f732f3e5b72676f2&#34;&gt;hamńe&lt;/h3&gt;
+
+&lt;p&gt;/ˈhɐmnjɛ/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) now&lt;/p&gt;
+
+&lt;h3 id=&#34;leci:091b1bb727079026f732f3e5b72676f2&#34;&gt;leci&lt;/h3&gt;
+
+&lt;p&gt;/ˈɺ̻ɛtɕi̥/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) non-first-person singular formal pronoun.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/em&gt; This is rarely used for the second person.&lt;/p&gt;
+
+&lt;h3 id=&#34;lejzi:091b1bb727079026f732f3e5b72676f2&#34;&gt;lejzi&lt;/h3&gt;
+
+&lt;p&gt;/ˈɺ̻ɛ.d̯zˑi/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) that&lt;/p&gt;
+
+&lt;h3 id=&#34;lele:091b1bb727079026f732f3e5b72676f2&#34;&gt;lele&lt;/h3&gt;
+
+&lt;p&gt;/ˈɺ̻ɛ.ɺ̻ɛ/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) there&lt;/p&gt;
+
+&lt;h3 id=&#34;lemmm-e:091b1bb727079026f732f3e5b72676f2&#34;&gt;lemmḿe&lt;/h3&gt;
+
+&lt;p&gt;/ˈɺ̻ɛmː.mjɛ/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) non-first-person plural formal pronoun.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/em&gt; This is rarely used for the second person.&lt;/p&gt;
+
+&lt;h3 id=&#34;lemńe:091b1bb727079026f732f3e5b72676f2&#34;&gt;lemńe&lt;/h3&gt;
+
+&lt;p&gt;/ˈɺ̻ɛm.njɛ/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) then (past or future)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If none of those sound like real #Lexember words for you, then I suppose there&amp;rsquo;s always:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;niiparraan:091b1bb727079026f732f3e5b72676f2&#34;&gt;niiparraan&lt;/h3&gt;
+
+&lt;p&gt;/ˈniː.pɐʁ.ʁɐːn/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;n.&lt;/em&gt;) nostalgia. From &lt;strong&gt;niiparraa&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;niiparraa:091b1bb727079026f732f3e5b72676f2&#34;&gt;niiparraa&lt;/h3&gt;
+
+&lt;p&gt;/ˈniː.pɐʁ.ʁɐː/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;v.&lt;/em&gt;) to experience nostalgia, to have nostalgia for&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To make those, I had to introduce another word and a suffix:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;nii:091b1bb727079026f732f3e5b72676f2&#34;&gt;nii&lt;/h3&gt;
+
+&lt;p&gt;/ˈniː/&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;v.&lt;/em&gt;) think. From the Naretvei word &amp;ldquo;nii&amp;rdquo; (&amp;ldquo;to know&amp;rdquo;).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And the suffix &lt;strong&gt;-par&lt;/strong&gt; (/pɐʁ/), which is used to produce a momentane nominalisation, e.g. to think → a though, or to speak → a speech.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s all for today! Happy conlanging!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Lexember the 1st</title>
