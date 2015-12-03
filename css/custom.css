@@ -35,13 +35,13 @@ body {
 .header ul li a {
 	font-weight: bold;
 	color: #484848;
-	font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 .header .site-title {
 	font-weight: bold;
 	color: #484848;
-	font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 .pull-right {
@@ -53,11 +53,11 @@ body {
 	font-weight: bold;
 	padding-left: 1em;
 	margin-top: 1em;
-	font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 .posts {
-	font-family: verdana,arial,helvetica,sans-serif;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
 	list-style-type:none;
 	padding-left: 1em;
 }
@@ -131,7 +131,7 @@ body {
 }
 
 .post {
-	font-family: proxima-nova,"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+	font-family: Helvetica,Roboto,Arial,sans-serif;
 	color:#484848;
 	letter-spacing:normal;
 	padding-left: .5em;
